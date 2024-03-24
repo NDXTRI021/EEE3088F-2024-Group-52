@@ -1,0 +1,17 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\Triss\OneDrive - University of Cape Town\EEE3088_2024\Main Project\LTSpice\Draft1.asc
+Start Time: Sat Mar 23 19:35:27 2024
+Warning: Multiple definitions of model "2scr375p" Type: BJT
+Warning: Multiple definitions of model "bc857b" Type: BJT
+Warning: Multiple definitions of model "bc847c" Type: BJT
+Warning: Multiple definitions of model "bc847b" Type: BJT
+solver = Normal
+Maximum thread count: 4
+tnom = 27
+temp = 27
+method = modified trap
+WARNING: Less than two connections to node n005.  This node is used by v1.
+WARNING: Less than two connections to node n012.  This node is used by v3.
+Direct Newton iteration for .op point succeeded.
+Total elapsed time: 0.240 seconds.
+
