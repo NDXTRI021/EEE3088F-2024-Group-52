@@ -7,7 +7,7 @@
 	(title_block
 		(title "EEE3088F 2024 Group 52 Power")
 		(date "2024-03-23")
-		(rev "v0")
+		(rev "v1")
 		(comment 3 "NDXTRI021")
 		(comment 4 "Triss Naidoo")
 	)
@@ -7977,6 +7977,7 @@
 	(symbol
 		(lib_id "Transistor_FET:AO3401A")
 		(at 186.69 35.56 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7984,7 +7985,7 @@
 		(dnp no)
 		(uuid "e36c5293-a219-454f-beba-79e9823ef3a5")
 		(property "Reference" "Q1"
-			(at 193.04 34.2899 0)
+			(at 193.04 36.8301 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7993,7 +7994,7 @@
 			)
 		)
 		(property "Value" "AO3401A"
-			(at 192.786 36.576 0)
+			(at 192.786 34.544 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8002,7 +8003,7 @@
 			)
 		)
 		(property "Footprint" "Easy2Ki_Library:SOT-23_L2.9-W1.3-P1.90-LS2.4-BR"
-			(at 191.77 37.465 0)
+			(at 191.77 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8013,7 +8014,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf"
-			(at 191.77 39.37 0)
+			(at 191.77 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
