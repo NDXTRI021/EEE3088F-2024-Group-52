@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "Easy2Ki_Library")(type "KiCad")(uri "${KIPRJMOD}/Lib_DL/easyeda2kicad.pretty/Easy2Ki_Library.pretty")(options "")(descr ""))
-)
